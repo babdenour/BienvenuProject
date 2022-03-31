@@ -61,6 +61,7 @@ export default {
   align-items: center;
   & p {
     margin: 0;
+    text-align: left;
   }
 }
 </style>

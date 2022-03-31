@@ -78,6 +78,7 @@ export default {
   margin: 1vh 1vw;
   & p {
     margin: 0;
+    text-align: left;
   }
 }
 

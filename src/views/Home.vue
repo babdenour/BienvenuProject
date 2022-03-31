@@ -8,16 +8,27 @@ export default {
   <div class="home">
     <img src="../assets/logo.png" alt="bienvenue" />
     <div class="home__nav">
-      <p><router-link to="/studio">STUDIO</router-link></p>
-      <p><router-link to="/cultural">CULTURAL PROGRAMS</router-link></p>
-      <p><router-link to="/about">ABOUT</router-link></p>
+      <p>
+        <router-link to="/studio">STUDIO</router-link>
+      </p>
+      <p>
+        <router-link to="/cultural">CULTURAL PROGRAMS</router-link>
+      </p>
+      <p>
+        <router-link to="/about">ABOUT</router-link>
+      </p>
     </div>
     <div class="home__info-contact">
-      <a href="https://www.instagram.com/bienvenueprojects/? igshid=a3gc4g3rk7oa"
-        >@bienvenueprojects</a
-      >
-      <a href="tel:+33963640723">(+33) 9 63 64 07 23 </a>
+      <a href="https://www.instagram.com/bienvenueprojects/" target="_blank">@bienvenueprojects</a>
+      <a href="tel:+33963640723">(+33) 9 63 64 07 23</a>
       <a href="mailto:bonjour@bienvenueprojects.com">bonjour@bienvenueprojects.com</a>
+      <br />
+
+      <a
+        href="https://www.instagram.com/abde.bens/"
+        target="_blank"
+        style="color: gray;"
+      >dev with 🤍 by @abdebens</a>
     </div>
   </div>
 </template>
@@ -41,6 +52,7 @@ export default {
     transform-origin: left bottom;
     width: 100vw;
   }
+
   &__nav {
     display: flex;
     flex-direction: column;
@@ -65,6 +77,10 @@ export default {
     display: flex;
     flex-direction: column;
     align-items: flex-end;
+
+    & > a {
+      margin: 0.2em 0;
+    }
   }
 }
 </style>
