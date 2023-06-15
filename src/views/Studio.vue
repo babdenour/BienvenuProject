@@ -27,18 +27,18 @@ export default {
           BIENVENUE AIMS TO GIVE LIFE TO NEW CREATIVE VISIONS TAILORED TO EACH BRAND AND FASHION HOUSE’S IDENTITY. BENEFITTING FROM A LARGE NETWORK OF TALENTS, WE ENSURE TO TAKE EACH VISION AND PROJECT FROM ITS STARTING POINT TO ITS FINAL EXECUTION, THROUGH RESEARCH, DESIGN, ART DIRECTION AND MUCH MORE. 
         </p>
         <br />
-        <p>BASED IN PARIS, LEADING PROJECTS IN EUROPE AND OVERSEAS.</p>
-        <p>CREATIVE DIRECTION</p>
-        <p>IMAGE & ART DIRECTION</p>
-        <p>GRAPHIC DESIGN</p>
-        <p>PHOTOGRAPHY</p>
-        <p>VIDEOS</p>
-        <p>PRODUCTION</p>
-        <p>STYLING</p>
-        <p>CASTING</p>
-        <p>PR STRATEGY</p>
-        <p>CURATION</p>
-        <p>RESEARCH</p>
+        <p class="grs">BASED IN PARIS, LEADING PROJECTS IN EUROPE AND OVERSEAS.</p>
+        <p class="grs">CREATIVE DIRECTION</p>
+        <p class="grs">IMAGE & ART DIRECTION</p>
+        <p class="grs">GRAPHIC DESIGN</p>
+        <p class="grs">PHOTOGRAPHY</p>
+        <p class="grs">VIDEOS</p>
+        <p class="grs">PRODUCTION</p>
+        <p class="grs">STYLING</p>
+        <p class="grs">CASTING</p>
+        <p class="grs">PR STRATEGY</p>
+        <p class="grs">CURATION</p>
+        <p class="grs">RESEARCH</p>
         <br />
         <br />
         <p>* UPON REQUEST, A MORE DETAILED</p>
@@ -71,7 +71,13 @@ export default {
   flex-direction: column;
   align-items: flex-start;
   & p {
+    text-align: left;
+
     margin: 0;
   }
+}
+
+.grs {
+  font-weight: bold;
 }
 </style>

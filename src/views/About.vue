@@ -64,7 +64,7 @@ export default {
 .text {
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: left;
   & p {
     margin: 0;
     text-align: left;
