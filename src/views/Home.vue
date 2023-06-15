@@ -1,8 +1,4 @@
-<script>
-export default {
-  name: 'home',
-};
-</script>
+
 
 <template>
   <div class="home">
@@ -18,7 +14,7 @@ export default {
         <router-link to="/about">ABOUT US</router-link>
       </p>
     </div>
-    <div class="home__info-contact">
+    <div  class="home__info-contact" >
       <a href="https://www.instagram.com/bienvenueprojects/" target="_blank">@bienvenueprojects</a>
       <a href="tel:+33963640723">(+33) 9 63 64 07 23</a>
       <a href="mailto:bonjour@bienvenueprojects.com">bonjour@bienvenueprojects.com</a>

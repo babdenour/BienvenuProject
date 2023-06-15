@@ -1,3 +1,9 @@
+<script setup>
+import { useRoute } from "vue-router";
+
+const route = useRoute();
+
+</script>
 <script>
 export default {
   name: 'NavItems',
@@ -10,7 +16,7 @@ export default {
 </script>
 
 <template>
-  <div class="nav-items">
+  <div v-if="route.name != 'studio' && route.name != 'cultural'" class="nav-items">
     <div class="nav-items__info-contact">
       <a href="https://www.instagram.com/bienvenueprojects/? igshid=a3gc4g3rk7oa">@bienvenueprojects</a>
       <a href="tel:+33963640723">(+33) 9 63 64 07 23</a>
