@@ -1,9 +1,9 @@
 /* eslint-disable max-len */
 <script>
-import NavItems from '../components/NavItems.vue';
+import NavItems from "../components/NavItems.vue";
 
 export default {
-  name: 'about',
+  name: "about",
   components: {
     NavItems,
   },
@@ -18,20 +18,27 @@ export default {
     <div class="about">
       <h1>ABOUT</h1>
       <div class="text">
-        <p>BienvenueProjects PARIS CREATIVE STUDIO</p>
+        <p>BIENVENUE IS A MULTIDISCIPLINARY CREATIVE DIRECTION CONSULTANCY PRACTICE.</p>
         <br />
         <br />
         <p>
-          BIENVENUE IS AN INDEPENDENT CREATIVE STUDIO WORKING ON VISUAL
-          <br />STRATEGIES, GRAPHIC DESIGN, ADVERTISING CAMPAIGNS AND BRAND
-          <br />CONTENT FOR FASHION AND LUXURY BRANDS.
+          BIENVENUE WAS BORN IN PARIS - BUT OUR CULTURAL HERITAGE FOLLOWS US ACROSS THE
+          GLOBE.
         </p>
-        <br />
         <br />
         <p>
-          BIENVENUE ALSO CAPITALIZES ON A EXTERNAL NETWORK OF TALENTS,
-          <br />CONSULTANTS, CREATIVES, ADVISORS, & TECHNICAL OPERATORS.
+          ALWAYS LOOKING FOR INNOVATIVE CONCEPTS, BIENVENUE PAYS VERY SPECIAL ATTENTION TO
+          DETAIL, DELIVERING PROJECTS ACROSS MULTIPLE TOUCHPOINTS.
         </p>
+        <br />
+        <p>WE ARE STRIKING AT THE PERFECT BALANCE BETWEEN THE ARTS AND CULTURE.</p>
+        <br />
+        <p>
+          WE ARE FIRMLY CONVINCED THAT GIVING OUR WORK A HUMAN DIMENSION IS THE KEY TO
+          BRINGING OUR IDEAS TO SUCCESS.
+        </p>
+        <br /><br />
+        <p>* UPON REQUEST, A MORE DETAILED PORTFOLIO IS AVAILABLE.</p>
       </div>
       <nav-items />
     </div>

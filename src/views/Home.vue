@@ -12,10 +12,10 @@ export default {
         <router-link to="/studio">STUDIO</router-link>
       </p>
       <p>
-        <router-link to="/cultural">CULTURAL PROGRAMS</router-link>
+        <router-link to="/cultural">CULTURAL INITIATIVES</router-link>
       </p>
       <p>
-        <router-link to="/about">ABOUT</router-link>
+        <router-link to="/about">ABOUT US</router-link>
       </p>
     </div>
     <div class="home__info-contact">

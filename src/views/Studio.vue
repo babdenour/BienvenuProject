@@ -18,41 +18,30 @@ export default {
     <div class="studio">
       <h1>STUDIO</h1>
       <div class="text">
+        <br />
         <p>
-          WE ARE BRAND MAKERS, CREATIVES, DESIGNERS, DEVELOPERS AND
-          PROJECT MANAGERS TO BRING IDEAS TO SUCCESS.
+          INSPIRED BY YOUTH AND A WORLD THAT CONSTANTLY REINVENTS ITSLEF, WE STRIVE TO OFFER AN AUTHENTIC YET DYNAMIC VISION THAT WILL MAKE A PROJECT STAND OUT FROM THE CROWD.
         </p>
         <br />
+        <p>
+          BIENVENUE AIMS TO GIVE LIFE TO NEW CREATIVE VISIONS TAILORED TO EACH BRAND AND FASHION HOUSE’S IDENTITY. BENEFITTING FROM A LARGE NETWORK OF TALENTS, WE ENSURE TO TAKE EACH VISION AND PROJECT FROM ITS STARTING POINT TO ITS FINAL EXECUTION, THROUGH RESEARCH, DESIGN, ART DIRECTION AND MUCH MORE. 
+        </p>
         <br />
-        <p>CREATIVE & IMAGE DIRECTION</p>
+        <p>BASED IN PARIS, LEADING PROJECTS IN EUROPE AND OVERSEAS.</p>
+        <p>CREATIVE DIRECTION</p>
+        <p>IMAGE & ART DIRECTION</p>
+        <p>GRAPHIC DESIGN</p>
         <p>PHOTOGRAPHY</p>
-        <p>FILMS & VIDEOS</p>
-        <p>ADVERTISING</p>
-        <p>BRANDING & IDENTITY</p>
-        <p>MODELS & TALENTS CASTING</p>
-        <p>STYLING</p>
-        <p>PRESS RELATION</p>
-        <p>TALENTS & ARTISTS MANAGEMENT</p>
-        <p>CURATION</p>
-        <p>EVENTS</p>
-        <p>DESIGN RESEARCH</p>
-        <p>CREATIVE CONSULTANCY</p>
-        <p>COLLECTION DEVELOPMENT</p>
-        <p>MOODBOARDS</p>
-        <p>SUPPORT TO CREATIVE DIRECTOR</p>
-        <p>SET DESIGN</p>
+        <p>VIDEOS</p>
         <p>PRODUCTION</p>
-        <p>LOCATIONS SCOUTING</p>
-        <p>COMMUNITY SOCIAL STRATEGY</p>
-        <p>WEB DESIGN</p>
+        <p>STYLING</p>
+        <p>CASTING</p>
+        <p>PR STRATEGY</p>
+        <p>CURATION</p>
+        <p>RESEARCH</p>
         <br />
-        <p>
-          WE DEVELOP AND SHARE CREATIVE VISION WITH BRANDS AND FASHION
-          <br />HOUSES FROM THE INITIAL CREATIVE STRATEGY TO ART DIRECTION, DESIGN,
-          <br />AND FINAL EXECUTION OF THE PROJECT.
-        </p>
         <br />
-        <p>** UPON REQUEST, A MORE DETAILED</p>
+        <p>* UPON REQUEST, A MORE DETAILED</p>
         <p>PORTFOLIO IS AVAILABLE.</p>
       </div>
       <nav-items class="nav-items" msg msg2 />
