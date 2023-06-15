@@ -24,11 +24,11 @@ export default {
       <a href="mailto:bonjour@bienvenueprojects.com">bonjour@bienvenueprojects.com</a>
       <br />
 
-      <a 
+      <!-- <a 
         href="https://www.instagram.com/abde.bens/"
         target="_blank"
         style="color: gray; display: hidden"
-      >dev with 🤍 by @abdebens</a>
+      >dev with 🤍 by @abdebens</a> -->
     </div>
   </div>
 </template>
