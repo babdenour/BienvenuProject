@@ -15,7 +15,7 @@ export default {
       <router-link to="/home" v-if="!$route.path.includes('/home')">←</router-link>
     </div>
     <div class="cultural">
-      <h1>CULTURAL PROGRAMS</h1>
+      <h1>CULTURAL INITIATIVES</h1>
 
       <div class="text">
         <p>
@@ -25,11 +25,7 @@ export default {
         <br />
         <p>
           WE CHERISH A HUMAN-TO-HUMAN APPROACH IN OUR WORK, AND CULTURAL PROGRAMS ALLOW US
-          TO EMPHASIZE ON THAT DIMENSION.
-          <br />
-        </p>
-        <p>
-          CULTURAL PROGRAMS AT BIENVENUE PROJECTS ARE NON-TRANSACTIONAL: WE VIEW CULTURE
+          TO EMPHASIZE ON THAT DIMENSION. CULTURAL PROGRAMS AT BIENVENUE PROJECTS ARE NON-TRANSACTIONAL: WE VIEW CULTURE
           AS A VALUE AND BELIEVE THAT IT IS IMPORTANT TO OFFER A HELPING HAND TO THE
           COMMUNITIES THAT SURROUND US WITHOUT MAKING IT A MONETARY EXCHANGE OF SERVICES.
           IT’S ABOUT LIFTING EACH OTHER UP.

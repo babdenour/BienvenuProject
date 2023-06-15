@@ -16,10 +16,9 @@ export default {
       <router-link to="/home" v-if="!$route.path.includes('/home')">←</router-link>
     </div>
     <div class="about">
-      <h1>ABOUT</h1>
+      <h1>ABOUT US</h1>
       <div class="text">
         <p>BIENVENUE IS A MULTIDISCIPLINARY CREATIVE DIRECTION CONSULTANCY PRACTICE.</p>
-        <br />
         <br />
         <p>
           BIENVENUE WAS BORN IN PARIS - BUT OUR CULTURAL HERITAGE FOLLOWS US ACROSS THE
